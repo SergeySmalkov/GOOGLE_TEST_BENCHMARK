@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/factoriallib_benchmarks/lib" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/factoriallib_tests/googletest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/factoriallib_tests/lib" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/googletests" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/googletests/lib" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/testik/googletests" vcs="Git" />
+  </component>
+</project>
